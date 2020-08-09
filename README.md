@@ -3,9 +3,23 @@
 
 <em>I am a 4th Year undergraduate student from <a href="https://www.gtu.ac.in/"><b>Gujarat Technological University</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset 🧠 and given me the curiosity to learn more. 
  <br/>
+ <br/>
+
+
+### 🚀 About
+- 🎓 Majoring in Computer Science Engineering
+- 👀 I'm currently focusing on **Data Analysis** and **android development**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
+- 🔭 I'm currently learning **Flutter**
+- 💬 Ask me about: everything especially about **tech, movies, series**
+- **I** ❤️ **to think, learn, code, and customize everything**
+- 🌱 Loves C, C++, Python, Go, TypeScript, Linux && Music
+- 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Languages
+- 📒 Learning && Living
+
 
 <center>
- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif"> 
+ <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif"> 
 </center>
 
 
@@ -17,14 +31,7 @@
   - Always Willing to help (**Altruistic**). ✋ 
 
 <br/>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-.    
    
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahana001&hide=["stars"]&show_icons=true)
-
--------
-
 
 ### Languages and Tools :computer:
 
@@ -45,6 +52,17 @@
 - Java
 - Machine Learning
 - Deep Learning
+- A little PHP
+
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+<br/>
+<br/>    
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahana001&hide=["stars"]&show_icons=true)
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <div align="center">
   <h3 align="center">Connect with me</h3> 
