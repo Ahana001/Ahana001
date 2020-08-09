@@ -1,4 +1,6 @@
 
+### Glad to see you here! 🤩 
+
 <em>I am a 4th Year undergraduate student from <a href="https://www.gtu.ac.in/"><b>Gujarat Technological University</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset 🧠 and given me the curiosity to learn more. 
  <br/>
 
@@ -6,6 +8,15 @@
  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif"> 
 </center>
 
+
+## Things that I execute in free time ⚡ -  
+  - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
+  - While Coding, Listening Music and developing useful code.⭐️
+  - Just loved to Explore new Tech Stacks.💻
+  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
+  - Always Willing to help (**Altruistic**). ✋ 
+
+<br/>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
 .    
