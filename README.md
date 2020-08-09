@@ -1,9 +1,9 @@
 
-<em>I am a 4th Year undergraduate student from <a href="https://www.gtu.ac.in/"><b>Gujarat Technological University</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
+<em>I am a 4th Year undergraduate student from <a href="https://www.gtu.ac.in/"><b>Gujarat Technological University</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset and given me the curiosity to learn more. I firmly believe that **no amount <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">  of knowledge is enough knowledge**. 🧠</em>
  <br/>
-
+<center>
  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif"> 
-
+</center>
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
 .    
