@@ -13,8 +13,7 @@
 - 🔭 I'm currently learning **Flutter**
 - 💬 Ask me about: everything especially about **tech, movies, series**
 - **I** ❤️ **to think, learn, code, and customize everything**
-- 🌱 Loves C, C++, Python, Go, TypeScript, Linux && Music
-- 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Languages
+- 🔭 Web development && Programming Languages
 - 📒 Learning && Living
 
 
@@ -45,14 +44,12 @@
 
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
+- NodeJs development
+- web development
 - Mobile application development using **Flutter**.
 - Python.
 - Java
 - Machine Learning
-- Deep Learning
-- A little PHP
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
