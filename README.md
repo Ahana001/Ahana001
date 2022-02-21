@@ -9,7 +9,7 @@
 ##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> A little more about me...  
 
 ```javascript
-const thai = {
+const Ankita = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
